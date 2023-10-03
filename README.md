@@ -1,3 +1,4 @@
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=aturetmis)](https://holopin.io/@aturetmis)
 ## Hi, I'm Ahmet 👋 and I'm Passionate about Data-Driven Project Management and Process Optimization
 
 I'm a Senior Business Process Analyst with a mission to streamline and optimize business processes using data analysis and automation tools. Currently, I work for a construction company, where I manage the implementation of Microsoft technologies to achieve these goals.
